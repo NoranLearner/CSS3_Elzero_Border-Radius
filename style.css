@@ -1,0 +1,19 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(90, 223, 90);
+    margin: 20px auto;
+
+    -webkit-border-radius: 10px 120px;
+    -moz-border-radius: 10px 120px;
+    -ms-border-radius: 10px 120px;
+    -o-border-radius: 10px 120px;
+    border-radius: 10px 120px;
+
+    -webkit-border-top-right-radius: 40%;
+    -moz-border-top-right-radius: 40%;
+    -ms-border-top-right-radius: 40%;
+    -o-border-top-right-radius: 40%;
+    border-top-right-radius: 40%;
+    
+}
